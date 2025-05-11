@@ -1,6 +1,6 @@
-path: /Users/gabriel/aiProjects/register-entering-vehicle/dataset
-train: /Users/gabriel/aiProjects/register-entering-vehicle/dataset/train/images
-val: /Users/gabriel/aiProjects/register-entering-vehicle/dataset/val/images
+path: A:\STUDIES\IROBOTICS\parking-management-system\parking-management-system\dataset
+train: A:\STUDIES\IROBOTICS\parking-management-system\parking-management-system\dataset\train\images
+val: A:\STUDIES\IROBOTICS\parking-management-system\parking-management-system\dataset\val\images
 
 names:
   0: license_plate
